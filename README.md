@@ -89,12 +89,17 @@ Outside contests, I like building complete tools and applications — from a nat
 
 ## Competitive Programming
 
-<div align="center">
 
-<img src="https://img.shields.io/badge/FOCUS-ALGORITHMS%20%26%20PROBLEM%20SOLVING-1F6FEB?style=for-the-badge" alt="Algorithms and problem solving" />
-<img src="https://img.shields.io/badge/PRIMARY_LANGUAGE-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+## 🏆 Competitive Programming
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Codeforces-Peak%20Rating%3A%201357-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Competitive Programming • C++ • DSA • Problem Solving</b>
+</p>
+
 
 Competitive programming is one of my main learning tracks. I use contests and practice problems to build stronger algorithmic thinking, implementation discipline, and speed under constraints.
 
