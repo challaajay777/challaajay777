@@ -381,17 +381,19 @@ Explore all public repositories, experiments, and learning projects:
 
 ## Contribution Snake
 
-<div align="center">
 
-### Watch the contributions turn into a game 🐍
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/challaajay777/challaajay777/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/challaajay777/challaaj777/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/challaajay777/challaaj777/output/github-contribution-grid-snake.svg"
+      width="100%">
+  </picture>
+</p>
 
-<img src="https://raw.githubusercontent.com/challaajay777/challaajay777/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
-
-<sub>Generated automatically with GitHub Actions. The setup file is included alongside this README.</sub>
-
-</div>
-
----
 
 ## YouTube and Content
 
